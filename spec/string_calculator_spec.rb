@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'rspec'
 require './lib/string_calculator'
 RSpec.describe StringCalculator do
